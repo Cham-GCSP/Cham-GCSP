@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Cham-GCSP
-- 👀 I’m interested in spatial data science
-- 🌱 I’m currently learning master of public health
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in invironmental health
+- 🌱 I’m currently a master of public health
 - 📫 How to reach me: cham.nguyenthi26@gmail.com
 
 <!---
